@@ -41,12 +41,12 @@ int main()
 {
     Mahasiswa joko;
     Mahasiswa lia (123);
-    Mahasiswa asroni ("Budi");
+    Mahasiswa aril ("Noah");
     Mahasiswa faiq{ 123,"ogoh" };
 
     joko.cetak();
     lia.cetak();
-    asroni.cetak();
+    aril.cetak();
     faiq.cetak();
 
     system("pause");
